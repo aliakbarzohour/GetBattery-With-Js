@@ -25,6 +25,16 @@ body {
     align-items: center;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+i {
+    margin: 0 .5rem;
+}
+
 h2 {
     margin: 2rem;
     width: 200px;
